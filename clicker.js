@@ -3,9 +3,9 @@ function sleep(ms) {
 }
 
 // 把下面的数组元素修改为你想选的课程编号
-const courseId = ['1108', '1434'];
+const courseId = ['2887', '2885'];
 // 在这里修改选课系统ID
-const profileId = '834';
+const profileId = '1911770';
 
 async function mainFunction(courseId) {
   let idInd = 0;
